@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="BankDemouite">
+	<test name="BankDemoTest">
+		<classes>
+			<class name="com.bank.tests.LoginPageTest"></class>
+		</classes>
+	</test>
+</suite>
